@@ -14,7 +14,7 @@
 
 ### About me
 
-I build the developer tools that put AI in front of enterprise code. Currently a Staff AI/ML Engineer at Lockheed Martin, focused on Large Language Models and code generation for SAP/ABAP systems.
+I build the developer tools that put AI in front of enterprise code. Focused on Large Language Models and code generation for SAP/ABAP systems.
 
 My path is unusual: 15+ years as an SAP Technical Architect (Deloitte, AkzoNobel, Yasar Holding) shipping S/4HANA Cloud greenfield implementations, RAP/CAP applications, and BTP integrations — then a deliberate transition into AI/ML starting in 2023.
 
