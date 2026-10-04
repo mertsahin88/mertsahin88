@@ -25,7 +25,7 @@ At Lockheed Martin I work on AI developer tooling for SAP: an AI coding assistan
 
 ### Writing
 
-Short, practical notes on coding agents at **[mertsahin.ai](https://mertsahin.ai)**, in English and Turkish.
+Short, practical notes on coding agents at **[mertsahin.ai](https://mertsahin.ai)**.
 
 ### Stack
 
